@@ -1,0 +1,20 @@
+[/]
+dance-urgent=true
+favorites=true
+icon-size=24
+icon-style='REGULAR'
+indicator-location='TOP'
+isolate-monitors=false
+isolate-workspaces=true
+main-panel-height=(false, 36)
+multi-window-indicator-style='MULTI_DASH'
+notification-badges=false
+panel-location='TOP'
+panel-on-all-monitors=false
+position-offset=0
+show-apps-button=(false, 0)
+show-panel-activities-button=true
+show-panel-appmenu-button=false
+show-running-apps=true
+unity-badges=true
+unity-progress-bars=true
